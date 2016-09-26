@@ -10,3 +10,10 @@
 	font-size: 24px;
 	margin-bottom: 0;
 }
+
+.contato-select,
+.grupo-radio {
+    width: 50%;
+    display: inline-block;
+    vertical-align: middle;
+}
